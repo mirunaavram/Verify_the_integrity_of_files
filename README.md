@@ -1,1 +1,1 @@
-# Verify_the_integrity_of_files
+# Verify-the-integrity-of-the-files
